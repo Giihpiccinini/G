@@ -5,4 +5,13 @@ body {
 
 h1{
     color:darkgoldenrod
+} 
+.rosa {
+    color: black
+}
+.pink {
+    color: green
+}
+p {
+    font-size: 30px 
 }
